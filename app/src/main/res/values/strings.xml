@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSRunning</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart">启动/重启远程服务</string>
+</resources>
